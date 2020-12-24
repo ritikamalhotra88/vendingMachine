@@ -1,6 +1,7 @@
 import {stockCalc} from "./stock";
 
 let canStock = new stockCalc(1);												//Declaration of object of stockCalc class with initial supply of 1 can
+declare var require: any
 
 class vendingMachine{
 	isDone: boolean = false;													//Global variable for while loop
