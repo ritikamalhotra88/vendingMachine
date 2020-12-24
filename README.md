@@ -11,3 +11,6 @@ npm i vendingmachine-1.0.0.tgz
 Step 3 : Run the executable using below command:
 
 vendingmachine
+
+
+Attached the test evidence file as well for your review to check the execution of scenarios.
